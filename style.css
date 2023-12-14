@@ -1,0 +1,30 @@
+.collapse {
+display: flex;
+justify-content: center;
+font-family: "Open Sans", "sans-serif";
+cursor: pointer;
+}
+.navbar-toggler-icon {
+    filter: invert(1);
+}   
+.nav-item a,.heading{
+    color: white
+}
+.heading:hover,.nav-item a:hover,.linktext:hover,.site{
+    color: #de5f4e;
+}
+.h1{
+    
+    padding-top: 60px;
+    display: flex;
+    justify-content: center;
+}   
+.site:hover,.linktext{
+    color:#7a7a7a;
+}
+.paragraph1{
+    color:#7a7a7a;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
